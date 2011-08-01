@@ -1,0 +1,9 @@
+# Output #
+
+- Backup often
+  - Project files
+  - XML
+- Export screening format
+  - H.264, 1K
+- Master
+  - Apple ProRes 422

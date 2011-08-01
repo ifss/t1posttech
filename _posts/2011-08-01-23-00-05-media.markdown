@@ -1,0 +1,6 @@
+# Media #
+
+- Create structured project folder
+- Set preferences
+- Think about your naming scheme
+- Acquire/ingest media

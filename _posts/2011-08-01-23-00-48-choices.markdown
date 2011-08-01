@@ -1,0 +1,6 @@
+# Choices #
+
+- Shoot SD: edit and finish SD
+- Shoot HDV: finish HD, edit in HDV or ProRes
+- Shoot DSLR: transcode first, edit in ProRes, finish HD
+- Shoot HD: edit in HD or ProRes, finish HD

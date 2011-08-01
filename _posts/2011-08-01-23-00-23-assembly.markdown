@@ -1,0 +1,7 @@
+# Assembly #
+
+"Looking at a first assembly is kind of like looking at an 
+overgrown garden. You can't just wade in with a weed whacker; 
+you don't yet know where the stems of the flowers are."
+
+- Walter Murch

@@ -1,0 +1,6 @@
+# Finishing Standard #
+
+- Sequence settings
+  - 4:3 16:9 2.35:1
+  - SD (576i) HD (720p, 1080i, 1080p)
+  - 2K 4K

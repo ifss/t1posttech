@@ -1,0 +1,6 @@
+# OS X #
+
+- Interface on top of BSD, derived from Unix
+- 8 different cats so far (10.0 - 10.7)
+- The interface itself is an evolution of Apple's earliest systems from the Lisa and Mac
+- Overview

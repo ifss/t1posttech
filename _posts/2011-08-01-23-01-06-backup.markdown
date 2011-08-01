@@ -1,0 +1,11 @@
+# Backup Options #
+
+- USB drive
+- DVD or BluRay
+- Online
+  - Mozy
+  - Carbonite
+  - Backblaze
+  - Crashplan
+  - Dropbox
+  - SugarSync

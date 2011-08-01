@@ -1,0 +1,6 @@
+# Project Folder #
+
+- Editing Project Files
+- Final Cut Pro Documents
+- Exported Files
+- Source Files

@@ -1,0 +1,6 @@
+# Shooting Formats #
+
+- SD
+- DV
+- HDV
+- XDCAM

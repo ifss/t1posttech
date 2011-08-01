@@ -1,0 +1,9 @@
+# Finishing the Edit #
+
+- Add transitions
+- Add text and effects
+- Sound
+- Colour Grade
+- Make a master
+- Make delivery versions
+- Archive and backup

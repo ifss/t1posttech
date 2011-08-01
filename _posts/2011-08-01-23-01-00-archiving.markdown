@@ -1,0 +1,8 @@
+# Archiving #
+
+- Backups are not archives
+- Archive everything needed to re-create project
+  - Keep all original media intact
+  - Consider future versions
+- Archive only what is needed
+  - Avoid duplicates

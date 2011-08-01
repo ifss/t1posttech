@@ -1,0 +1,6 @@
+# Camera Files #
+
+- Database, not clips
+- JVC
+- XDCAM
+- Larry Jordan rules
